@@ -4,11 +4,8 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Aspiring+Data+Analyst;Business+Analyst;Exploring+Data+Science;" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Data+Analyst;Business+Analyst;Exploring+Data+Science;" alt="">
 </div>
-
-  <img src="https://github.com/Pravallikamaddi/Pravallikamaddi/raw/main/giphy2.gif" alt="Data Analytics GIF" width="400">
-
 </div>
 
 
